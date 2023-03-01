@@ -18,7 +18,7 @@
   <properties>
    <maven.compiler.source>16</maven.compiler.source>
    <maven.compiler.target>16</maven.compiler.target>
+   <maven.compiler.release>11</maven.compiler.release>
  </properties>
-  <maven.compiler.release>11</maven.compiler.release>
 </project>
 
